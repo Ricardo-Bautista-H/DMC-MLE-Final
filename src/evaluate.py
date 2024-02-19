@@ -32,7 +32,7 @@ def eval_model(filename):
 
 # Validación desde el inicio
 def main():
-    df = eval_model('creditcardcc_val.csv')
+    df = eval_model('creditcc_val.csv')
     print('Finalizó la validación del Modelo')
 
 

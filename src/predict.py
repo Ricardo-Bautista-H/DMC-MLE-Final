@@ -23,7 +23,7 @@ def score_model(filename, scores):
 
 # Scoring desde el inicio
 def main():
-    df = score_model('creditcardcc_score.csv','final_score.csv')
+    df = score_model('creditcc_score.csv','final_score.csv')
     print('Finalizó el Scoring del Modelo')
 
 
