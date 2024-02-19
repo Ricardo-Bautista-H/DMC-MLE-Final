@@ -1,0 +1,2 @@
+# requirements
+xgboost>=1.7.6
