@@ -42,7 +42,7 @@ def read_file_csv(filename):
 
 # Entrenamiento completo
 def main():
-    read_file_csv('creditcard_train.csv')
+    read_file_csv('creditcc_train.csv')
     print('Finalizó el entrenamiento del Modelo')
 
 
